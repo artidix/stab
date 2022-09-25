@@ -14,6 +14,7 @@
     "typescript": "^4.8.3"
   },
   "dependencies": {
+    "devenv": "^1.0.1",
     "stability-ts": "^1.3.0"
   }
 }
